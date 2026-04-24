@@ -135,6 +135,7 @@ The goal was to go beyond visualization — to build something that a business t
 
 | Tool | Purpose |
 |------|---------|
+| **SQL** | Data extraction, querying, and filtering large dataset |
 | **Power BI Desktop** | Dashboard design, report pages, slicers & interactivity |
 | **DAX** | Custom measures — profit margin, ROI, return rate, cancellation rate, loss calc |
 | **Power Query (M)** | Data cleaning, transformation, and shaping |
