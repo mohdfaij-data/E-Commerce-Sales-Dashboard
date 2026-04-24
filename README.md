@@ -13,7 +13,7 @@
 
 <br/>
 
-🌐 **[Portfolio](YOUR_PORTFOLIO_LINK)** &nbsp;|&nbsp; 📊 **[Live Dashboard](YOUR_LIVE_DASHBOARD_LINK)** &nbsp;|&nbsp; 💻 **[GitHub](YOUR_GITHUB_PROFILE_LINK)**
+🌐 **[Portfolio](https://mohdfaij-data.github.io/)** &nbsp;|&nbsp; 📊 **[Live Dashboard](YOUR_LIVE_DASHBOARD_LINK)** &nbsp;|&nbsp; 💻 **[GitHub](YOUR_GITHUB_PROFILE_LINK)**
 
 <br/>
 
@@ -217,9 +217,9 @@ AOV = DIVIDE([Total Revenue], [Total Delivered Orders], 0)
 **Mohd Faij**
 *Data Analyst | Power BI Developer | Business Intelligence*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_LINK)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_LINK)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mohdfaij-data.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mohdfaij-data)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
 
 </div>
 
