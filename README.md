@@ -49,7 +49,7 @@ The goal was to go beyond visualization — to build something that a business t
 ### 📄 Page 1 — E-Commerce Sales Overview
 > *Comprehensive view of sales performance, order distribution, fulfillment analysis & geographic insights*
 
-![Page 1 - Sales Overview](screenshots/page1_sales_overview.png)
+![Page 1 - Sales Overview](page1_sales_overview.png)
 
 **What this page covers:**
 - 📈 Sales trend over time (April–June 2022) — peaks up to ₹1.2M/month
@@ -66,7 +66,7 @@ The goal was to go beyond visualization — to build something that a business t
 ### 📄 Page 2 — Customer & Order Insights
 > *Deep dive into return behavior, cancellation trends, and revenue impact by category & fulfillment*
 
-![Page 2 - Customer Insights](screenshots/page2_customer_insights.png)
+![Page 2 - Customer Insights](page2_customer_insights.png)
 
 **What this page covers:**
 - ❌ **18,330 cancelled orders** — the single biggest profit threat
@@ -84,7 +84,7 @@ The goal was to go beyond visualization — to build something that a business t
 ### 📄 Page 3 — Profitability & Performance Analysis
 > *Profit margins, cost efficiency, ROI breakdown & category-level financial performance*
 
-![Page 3 - Profitability](screenshots/page3_profitability.png)
+![Page 3 - Profitability](page3_profitability.png)
 
 **What this page covers:**
 - 💰 **₹25.76M** total profit | **₹52.83M** total cost
@@ -102,7 +102,7 @@ The goal was to go beyond visualization — to build something that a business t
 ### 📄 Page 4 — Business Insights & Strategic Recommendations
 > *Key performance gaps, actionable growth strategies & estimated profit impact*
 
-![Page 4 - Strategy](screenshots/page4_recommendations.png)
+![Page 4 - Strategy](page4_recommendations.png)
 
 **What this page covers:**
 - 🔍 4 key business insights with visual indicators
